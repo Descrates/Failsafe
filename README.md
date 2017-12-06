@@ -1,4 +1,5 @@
 # Failsafe
+![destiny2_failsafe-closeup_feature](https://user-images.githubusercontent.com/22828501/33688211-79ed4e6a-da8f-11e7-9351-e1030fdd9808.jpg)
 Failsafe is a Discord Bot made by M4V3R1C8 and Descrates. Link to our server: https://discord.gg/vvWW29c
 
 # How to add Failsafe to your server
