@@ -13,6 +13,7 @@ Step 3: Done!
 # Features
 
 `- All commands will be prefixed by ‘s!’ to avoid interfering with other bots.`
+
 `- Our currency is ‘Glimmer’`
 
 _**General Commands**_
@@ -151,3 +152,87 @@ Same emojis, but hand spinning across the wheel (clockwise or counterclockwise, 
 Last edit:
             
 *Displayed below the wheel sprite:* “@user hit a **<Pepper, Apple, Diamond, etc.>** and lost all their Glimmer/ won **<% based amount>** Glimmer!”
+
+ _**Functions**_
+
+`Finding keywords and mass deleting them: s!keyword (Admin)`
+
+Usage:
+*s!keyword <word>*
+
+- a user calls the command along with a keyword, the bot replies with the amount of messages containing that keyword, and asking if the user if they would like to delete them.
+
+- _Bot:_ “@user, I found **<var>** use(s) of the word *”<word>”* across the server. Would you like to delete them? **Y/N**_
+
+This could be used for deleting a mass amount of words at once, or checking how often an emote is being used.
+
+`Role self assign:`
+
+- This function allows non admins of a server to assign any roles to themselves using the bot, controlled by reacting/un-reacting to a message, using emotes. 
+
+`User level for sent messages:`
+
+- Every time a user sends a message, it is tallied by the bot. You will level up once you reach a certain interval of messages sent. These intervals would work like this:
+
+`- Level 0 to 1 - 50 Messages`
+
+`- Level 1 to 2 - 100 Messages`
+
+`- Level 2 to 3 - 150 Messages`
+
+`- Level 3 to 4 - 200 Messages`
+
+`- Level 4 to 5 - 250 Messages`
+
+And so on. This will continue until Level 100, which from Level 99, would take 5,000 messages to hit. People that achieve Level 100 will be granted the @Blurple role, separated from online members, so if you wanna look important, this is the way to do it.
+
+`Purchasing Roles with Glimmer`
+
+- Users will be able to purchase  different color roles for Glimmer. 
+
+(Placeholder values, just for this server)
+
+**@Blue** - `1,000 Glimmer`
+
+**@Green** - `2,000 Glimmer`
+
+**@Yellow** - `5,000 Glimmer`
+
+**@Red** - `7,777 Glimmer`
+
+**@Cyan** - `10,000 Glimmer`
+
+**@Orange** - `15,000 Glimmer`
+
+**@White** - `20,000 Glimmer`
+
+**@Purple** - `35,000 Glimmer`
+
+**@Black** - `43,434 Glimmer`
+
+**@Invisible** - `55,000 Glimmer`
+
+**@Blurple** - `100,000 Glimmer`
+
+- To buy a role, type `s!getrole  <role name>`
+
+- Users that reach **User Level 100** will be granted the @Blurple role.
+
+`Automatic Role Assignment for New Members: s!newmembers`
+
+Usage:
+*s!newmembers <@role>*
+
+- Admins can set a role to be given to new members as soon as they join the server.
+
+`Automated announcements, specifically to reward Glimmer to users who react with an emote in a 24 hour time span.`
+
+- Here's what a typical automated announcement would look like:
+
+" :thinking: _**@here Free Glimmer! React with <emote> within 24 hours to claim your Glimmer!**_ "
+           
+_**Destiny 2 API Commands: s!destiny**_
+
+- Along with the listed commands, we will be integrating all Destiny 2 API commands into the bot. This means you will be able to check all your Destiny 2 statistics, `(s!destiny pvetime, s!destiny setplayer <player>, s!destiny raids @user, etc.).`
+
+- s!destiny will be updated to the newest API for the newest game, so Destiny 1 API is converted to the Destiny 2 API, but the command name will not change.
