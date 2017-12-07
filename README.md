@@ -11,6 +11,16 @@ Step 3: Done!
 
 (Note: The bot has all permissions except "Administrator" so it can be easily confined to certain channels. 
 
+## Refrences 
+
+- [**Node.js (LTS)**](https://nodejs.org/en/)
+
+- [**Git**](https://git-scm.com/)
+
+- [**Visual Studio Code**](https://code.visualstudio.com/)
+
+- [**Microsoft Visual Studio**](https://www.visualstudio.com/)
+
 # Features
 
 `- All commands will be prefixed by ‘s!’ to avoid interfering with other bots.`
