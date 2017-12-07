@@ -5,7 +5,7 @@ Failsafe is a Discord Bot made by M4V3R1C8 and Descrates. Link to our server: ht
 ## How to add Failsafe to your server
 Step 1: Use this site to get the link: https://failsafebot.wixsite.com/failsafe
 
-Step 2: Click the link and hit "Authorize" 
+Step 2: Click the big "Failsafe" text and hit "Authorize" 
 
 Step 3: Done!
 
