@@ -2,7 +2,7 @@
 ![destiny2_failsafe-closeup_feature](https://user-images.githubusercontent.com/22828501/33688211-79ed4e6a-da8f-11e7-9351-e1030fdd9808.jpg)
 Failsafe is a Discord Bot made by M4V3R1C8 and Descrates. Link to our server: https://discord.gg/vvWW29c
 
-# How to add Failsafe to your server
+## How to add Failsafe to your server
 Step 1: Use this site to get the link: https://failsafebot.wixsite.com/failsafe
 
 Step 2: Click the link and hit "Authorize" 
@@ -17,7 +17,7 @@ Step 3: Done!
 
 `- Our currency is ‘Glimmer’`
 
-_**General Commands**_
+## _**General Commands**_
 
 `s!purge:`
 
@@ -99,7 +99,7 @@ Usage:
 
 - Displays failsafebot.com, https://failsafebot.wixsite.com/failsafe
 
-_**Gambling**_
+## _**Gambling**_
 
 `s!war:`
 
@@ -154,7 +154,7 @@ Last edit:
             
 *Displayed below the wheel sprite:* “@user hit a **<Pepper, Apple, Diamond, etc.>** and lost all their Glimmer/ won **<% based amount>** Glimmer!”
 
- _**Functions**_
+##  _**Functions**_
 
 `Finding keywords and mass deleting them: s!keyword (Admin)`
 
