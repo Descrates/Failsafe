@@ -10,7 +10,7 @@ const NumberOfRunnersToShow = 25;
 //======================
 //bot config
 const botVersion = "0.9.0.0";
-const botLoginToken = "Mzg0MTQ2OTk3NTQxNzMyMzYz.DPyvaQ.gg-ycxajmX8swKGnI_4OQbudeMg";
+const botLoginToken = "";
 const prefix = "!";
 //======================
 //bot Information
