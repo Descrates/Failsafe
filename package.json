@@ -1,0 +1,30 @@
+{
+  "name": "package.js",
+  "version": "1.0.0",
+  "description": "Failsafe by M4V3R1C8 and Descrates",
+  "main": "failsafe.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.2.1",
+    "node-pre-gyp": "^0.6.39",
+    "sqlite": "^2.8.0",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Descrates/Failsafe.git"
+  },
+  "keywords": [
+    "failsafe"
+  ],
+  "author": "Descrates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Descrates/Failsafe/issues"
+  },
+  "homepage": "https://github.com/Descrates/Failsafe#readme"
+}
