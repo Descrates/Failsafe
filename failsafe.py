@@ -9,9 +9,6 @@ import time
 Client = discord.Client()
 client = commands.Bot(command_prefix="<@391023589463162880> ")
 
-banned_word_list_global = ["NIGGER", "NIGER", "NIGGAR", "NEGER"]
-adminroleidlist = ["372163580361179138", "381585370074054658", "372551153809883167"]
-
 dobbyuserid = "391023589463162880"
 
 def each_in_x_in_y(x, y):
